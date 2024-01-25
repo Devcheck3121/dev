@@ -1,0 +1,37 @@
+.main{
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.s1 {
+        width: 30%;
+        height: 70%;
+        /* border: 1px solid black; */
+        margin-top: 33px;
+        background-color: white;
+        margin-left: -13px;
+    }
+    .s2 {
+        width: 30%;
+        height: 70%;
+        /* border: 1px solid black; */
+        margin-top: 33px;
+        background-color: white;
+        margin-right: -13px;
+        background-color: white;
+    }
+    .hh {
+        width: 30%;
+        height: 50%;
+        background-color: white;
+        /* border: 1px solid black; */
+        margin-top: -22px;
+    }
+.hh h1{
+    font-size: 16px;
+}

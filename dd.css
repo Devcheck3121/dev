@@ -1,0 +1,20 @@
+.mains{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    border: 1px solid black;
+    overflow: auto;
+}
+.im{
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+    margin-left: 10px;
+}
+.news{
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+    margin-left: 10px;
+    
+}
